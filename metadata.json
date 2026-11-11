@@ -1,0 +1,6 @@
+{
+  "name": "Pasapalabra Հայերեն - Իսպաներեն (Ֆուտբոլ և Շփում)",
+  "description": "Pasapalabra ինտերակտիվ խաղ իսպաներենի և հայերենի համար։ Բառապաշար առօրյա շփման և ֆուտբոլի համար (El Rosco)։",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
